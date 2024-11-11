@@ -65,7 +65,7 @@ return "{\r\n"
 				"}\r\n" + 
 				"";
 	}
-	
+	//user input 
 	public static String dynamicpload(String first,String second)
 	{
 		String st1="{\r\n"
@@ -77,6 +77,7 @@ return "{\r\n"
 				+ "}\r\n"
 				+ "";
 		return st1;
+		
 	}
 
 }
